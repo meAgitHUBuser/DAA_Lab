@@ -32,19 +32,19 @@ If you want to clone the project, you can do so by following these steps:
 2. **Navigate to the directory where you want to clone the repository.**
 
    Use the `cd` command to change directories. For example:
-        cd path/to/your/directory
+        `cd path/to/your/directory`
 
 3. **Run the following command to clone the repository:**
 
-     ```git clone https://github.com/meAgitHUBuser/DAA_Lab.git```
+     `git clone https://github.com/meAgitHUBuser/DAA_Lab.git`
      
 
 4. **Navigate to cloned repository.**
 
-     ```cd DAA_Lab```
+     `cd DAA_Lab`
 
 5. **Open the project in your preferred IDE or text editor.**
 
      - If you are using Visual Studio Code, you can open the project by running:
-          ```code .```
+          `code .`
      - For other editors, open the editor and navigate to the cloned directory to open it.
