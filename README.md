@@ -38,7 +38,6 @@ If you want to clone the project, you can do so by following these steps:
 
      ```git clone https://github.com/meAgitHUBuser/DAA_Lab.git```
      
-     Replace your-username and DAA_Lab with your actual GitHub username and repository name.
 
 4. **Navigate to cloned repository.**
 
