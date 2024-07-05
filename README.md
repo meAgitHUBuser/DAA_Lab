@@ -1,4 +1,4 @@
-## Anallysis and design of algorithms
+# Anallysis and design of algorithms
 Welcome, this repository contains Java implementations of various algorithms studied in the Analysis and Design of Algorithms course.
 
 ## Folder Structure
